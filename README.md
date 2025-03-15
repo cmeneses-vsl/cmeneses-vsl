@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Carlos Henrique Meneses ... Analista de TI ..., de Duque de Caxias /RJ ....</h2>
+<h2 align="left">Olá !!!👋 Meu nome é Carlos Henrique Meneses ... Analista de TI ... de Duque de Caxias /RJ ....</h2>
 
 ###
 
