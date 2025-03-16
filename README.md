@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Henrique Meneses, ... sou Analista de TI ... de Duque de Caxias-RJ ....</p>
+<p align="left">Meu nome é Carlos Henrique Meneses, ... sou Analista de TI ... de Duque de Caxias - RJ ....</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h4 align="left">Sobre mim</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left"> Codificando com :</h2>
+<h4 align="left"> Codificando com :</h4>
 
 ###
 
