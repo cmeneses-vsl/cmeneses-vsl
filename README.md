@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Henrique Meneses, ... sou Analista de TI ... Duque de Caxias - RJ ....</p>
+<p align="left">Meu nome é Carlos Henrique Meneses ... Duque de Caxias - RJ ....</p>
 
 ###
 
@@ -14,18 +14,18 @@
 
 ###
 
-<h4 align="left"> Codificando com :</h4>
+<h4 align="left"> </h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src= />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src= />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src=""/>
 </div>
 
 ###
