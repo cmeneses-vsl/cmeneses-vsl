@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Henrique Meneses ... Duque de Caxias - RJ ....</p>
+<p align="left">Meu nome é Carlos Henrique Meneses sou de Duque de Caxias - RJ ....</p>
 
 ###
 
